@@ -1,2 +1,2 @@
 # conflict-resolution
-make trouble and fix it
+make some trouble and fix it
